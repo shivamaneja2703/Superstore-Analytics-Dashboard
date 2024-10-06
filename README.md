@@ -2,6 +2,8 @@
 
 This repository contains the Superstore Analytics Dashboard, a Power BI project developed using the Superstore dataset. The dashboard features insightful visualizations and analytics focused on sales performance, customer demographics, and product trends within a retail context.
 
+<img width="606" alt="Screenshot 2024-10-06 143615" src="https://github.com/user-attachments/assets/111aa5a3-2475-4044-b32d-46e3fdb40ac6">
+
 Key Features:
 
 Sales Analysis: Visualizations showcasing total sales, profit margins, and growth trends, enabling stakeholders to evaluate performance.
